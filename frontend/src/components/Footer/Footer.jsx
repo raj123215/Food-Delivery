@@ -9,10 +9,10 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            Bite-Buddy – Your trusted partner for quick, delicious, and reliable
+            food delivery. Satisfy your cravings with a wide variety of cuisines
+            from your favorite restaurants, delivered fresh to your doorstep.
+            Order now and enjoy the taste of convenience!
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
