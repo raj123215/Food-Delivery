@@ -5,7 +5,7 @@ import profile_image from './profile_image.png'
 import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
 
-export const url = 'https://food-delivery-backand-unuc.onrender.com'
+export const url = 'https://food-delivery-backend-unuc.onrender.com'
 export const currency = '₹'
 
 export const assets ={
